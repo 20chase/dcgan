@@ -5,9 +5,8 @@
 * tensorlayer
 
 ## TODO
-* WGAN
-* WGAN-GP
 * GAIL
 
 ## References
 * [tensorlayer/dcgan](https://github.com/tensorlayer/dcgan)
+* [jiamings/wgan](https://github.com/jiamings/wgan)
